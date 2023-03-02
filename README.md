@@ -1,7 +1,10 @@
 
-Simple python script that compares two folders, outputting the difference between the two in a text document with easy to read format. 
+This is a simple python script that compares two folders, outputting the difference between the two in a text document with easy to read format. 
+I use this for comparing two game versions of different games to see the changes that were made in the files, that were not documented. 
 
-I know there's tools that do this already, but they lack the ability to output as a separate text document that can be shared.
+I know there's tools that do this already, but they lack the ability to output as a separate text document that can be shared, and most lack the ability to scan entire folders. I have no idea why, but there's a lack of json comparison tools that are simple to use, so I made this. 
+
+I will not be going through how to install python in this. google it
 
 
 # Installation
