@@ -1,3 +1,9 @@
+
+Simple python script that compares two folders, outputting the difference between the two in a text document with easy to read format. 
+
+I know there's tools that do this already, but they lack the ability to output as a separate text document that can be shared.
+
+
 # Installation
 edit compare.py
 
