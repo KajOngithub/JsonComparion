@@ -2,7 +2,7 @@ import difflib
 import glob, os
 import re
 
-rootDirectory = 'C:/Users/dared/Desktop/Marauders Folder Test/New Version'
+rootDirectory = 'C:/Users/dared/Desktop/Comparison Tool/Json Comparison'
 
 outputFileName = input("Enter your output file name: ")
 for subdir, dirs, files in os.walk(rootDirectory):

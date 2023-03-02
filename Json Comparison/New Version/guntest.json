@@ -1,0 +1,19 @@
+[
+        "WeaponSpread": 0.0,
+        "FiringSpreadIncrement": 10.0,
+        "FiringSpreadMax": 30.0,
+        "RecoilBlendSpeed": 10.0,
+        "VerticalRecoil": 1.5,
+        "VerticalRecoilADS": 1.75,
+        "HorizontalRecoilMin": -0.1,
+        "HorizontalRecoilMax": 0.1,
+        "AngleMin": 0.0,
+        "AngleMax": 0.0,
+        "NoRecoilRecovery": true,
+        "ProjectileVelocity": 1000.0,
+        "Damage": 30,
+        "FireRate": 290.0,
+        "RealProjSettings": {
+          "InitialSpeed": 15000.0,
+          "TerminalVelocity": 85000.0,
+   
